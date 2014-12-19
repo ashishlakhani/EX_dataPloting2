@@ -24,9 +24,9 @@ Duplicate variables have been removed and variables names have been cleaned up f
 17. "timeBodyGyroJerk_mean_Z" 	: mean of tBodyGyroJerk-mean()-Z for a given subject and activity
 18. "timeBodyAccMag_mean" 	: mean of tBodyAccMag-mean() for a given subject and activity
 19. "freqBodyGyroJerkMag_std"	: mean of tBodyGyroJerkMag-std() for a given subject and activity
-20. "timeGravityAccMag_mean" 	: mean of tGravityAccMag-mean()-X for a given subject and activity
-21. "timeBodyAccJerkMag_mean" 	: mean of tBodyAccJerkMag-mean()-Y for a given subject and activity
-22. "timeBodyGyroMag_mean" 	: mean of tBodyGyroMag-mean()-Z for a given subject and activity
+20. "timeGravityAccMag_mean" 	: mean of tGravityAccMag-mean() for a given subject and activity
+21. "timeBodyAccJerkMag_mean" 	: mean of tBodyAccJerkMag-mean() for a given subject and activity
+22. "timeBodyGyroMag_mean" 	: mean of tBodyGyroMag-mean() for a given subject and activity
 23. "timeBodyGyroJerkMag_mean" 	: mean of tBodyGyroJerkMag-mean() for a given subject and activity
 24. "freqBodyAcc_mean_X" 	: mean of fBodyAcc-mean()-X for a given subject and activity
 25. "freqBodyAcc_mean_Y" 	: mean of fBodyAcc-mean()-Y for a given subject and activity
