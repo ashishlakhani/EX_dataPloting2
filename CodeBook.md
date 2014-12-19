@@ -5,8 +5,8 @@ tidy_data.txt is obeys the principles of tidy data wherin each observation is in
 Duplicate variables have been removed and variables names have been cleaned up from raw dataset.
 
 
-1. "activity" 
-2. "subject" 
+1. "activity" : corresponding activity like walking, sleeping etc
+2. "subject"  : subject performing the activity
 3. "timeBodyAcc_mean_X"   	: mean of tBodyAcc-mean()-X for a given subject and activity
 4. "timeBodyAcc_mean_Y"  	: mean of tBodyAcc-mean()-Y for a given subject and activity
 5. "timeBodyAcc_mean_Z"  	: mean of tBodyAcc-mean()-Z for a given subject and activity
