@@ -14,15 +14,15 @@ average of each variable for each activity and each subject
 
 Following are files needed to execute the code.
 
--UCI HAR Dataset/activity_labels.txt : Links the class labels with their activity name.
--UCI HAR Dataset/features.txt : various features (561 in total)
--UCI HAR Dataset/'features_info.txt': Shows information about the variables used on the feature vector.
--UCI HAR Dataset/test/subject_test.txt : 
--UCI HAR Dataset/test/X_test.txt : Test set
--UCI HAR Dataset/test/y_test.txt : Test labels
--UCI HAR Dataset/train/subject_train.txt : Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
--UCI HAR Dataset/train/X_trian.txt : training set
--UCI HAR Dataset/train/y_trian.txt : Training Label
+- UCI HAR Dataset/activity_labels.txt : Links the class labels with their activity name.
+- UCI HAR Dataset/features.txt : various features (561 in total)
+- UCI HAR Dataset/'features_info.txt': Shows information about the variables used on the feature vector.
+- UCI HAR Dataset/test/subject_test.txt : 
+- UCI HAR Dataset/test/X_test.txt : Test set
+- UCI HAR Dataset/test/y_test.txt : Test labels
+- UCI HAR Dataset/train/subject_train.txt : Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
+- UCI HAR Dataset/train/X_trian.txt : training set
+- UCI HAR Dataset/train/y_trian.txt : Training Label
 
 
 ##libraries needed##
